@@ -33,6 +33,7 @@ nav a {
     margin-bottom: 20px;
   }
   .nav{
+    font-family: "ALK Rounded Nusx Med", sans-serif;
     display: inline-block;
     margin-left: 100px;
     vertical-align: middle;
@@ -50,7 +51,8 @@ nav a {
   }
   .about{
     text-align: center;
-    font-size: 80%;
+    font-size: 16px;
+    font-family: "ALK-Life", sans-serif;
   }
   .button{
     text-align: center;
