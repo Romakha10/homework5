@@ -72,6 +72,13 @@ nav a {
   padding-bottom: 58px;
   margin-left: 240px;
 }
+.map2{
+  text-align: center;
+  width: 463px;
+  height: 197px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 .info{
   width: 178px;
   height: 26px;
